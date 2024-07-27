@@ -29,6 +29,11 @@
 - Python 3.11 or higher
 
 ### Steps
+1. Download the latest EXE Build / Release [here](https://github.com/KalHal123/GuessIt/releases)
+2. Open / Execute the file.
+
+**or:**
+
 1. Clone the repository:
     ```sh
     git clone https://github.com/KalHal123/GuessIt.git

@@ -48,6 +48,7 @@
 To start the game, run the following command:
 ```sh
 python main.py
+```
 
 ## Warning
 **This is my first real "Game". Don't expect too much.**

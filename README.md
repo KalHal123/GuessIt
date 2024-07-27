@@ -57,3 +57,6 @@ python main.py
 
 ## Warning
 **This is my first real "Game". Don't expect too much.**
+
+## Known Issues
+1. **The current EXE Build / Release doesn't generate the config.json, log.txt and corresponding folder structure**

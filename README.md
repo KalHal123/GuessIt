@@ -1,6 +1,6 @@
 # GuessIt - A fun little number guessing game made in Python with ❤️
 
-![GuessIt Logo](path/to/logo.png)
+![GuessIt Logo](3d-question-mark-icon-or-ask-faq-answer-solution-isolated-on-transparent-background-file-png.webp)
 
 ## Table of Contents
 - [Introduction](#introduction)
